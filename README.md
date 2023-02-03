@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm by-debug</h1>
+<h1 align="center">Hi, I'm by-debug</h1>
 <h3 align="center">A high school student from Taiwan</h3>
 
 
