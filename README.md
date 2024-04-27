@@ -2,7 +2,6 @@
 <h3 align="center">A high school student from Taiwan</h3>
 
 
-<p align="left"> <a href="https://twitter.com/by_debug" target="blank"><img src="https://img.shields.io/twitter/follow/by_debug?logo=twitter&style=for-the-badge" alt="by_debug" /></a> </p>
 
 - 🌱 I’m currently learning **c++, javascript & python**
 
